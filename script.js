@@ -106,3 +106,6 @@ function delNumber() {
     currentNum = currentNum.slice(0, -1);
     currentDisplayNumber.textContent = currentNum;
 }
+
+this is test
+asdfasdfasdfa
